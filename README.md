@@ -64,6 +64,7 @@ Double-click:
 `run_price_update.bat`
 
 ### Option 2 — terminal
+
 Run:
 
 ```bash
