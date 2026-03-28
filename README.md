@@ -69,6 +69,7 @@ Run:
 
 ```bash
 python main.py
+```
 
 ## Example result
 
